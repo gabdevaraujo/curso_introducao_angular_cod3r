@@ -1,0 +1,12 @@
+.home{
+    background-color:#fff;
+    color: black;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+
+mat-card-subtitle{
+    color: rgb(88, 88, 88);
+    font-size: 1.1rem;
+}
